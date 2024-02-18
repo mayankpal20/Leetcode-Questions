@@ -1,3 +1,4 @@
+/*All no's are setting zeros if any zero is present in a row or column */
 /*
 int rowsize = matrix.size() - 1 ;
         int colsize = matrix[0].size() - 1 ;
